@@ -20,3 +20,9 @@ data.json
 
 # Exclude macOS Finder (System Explorer) View States
 .DS_Store
+
+#参考
+
+md/
+DIST
+DIST/
