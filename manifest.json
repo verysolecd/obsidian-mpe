@@ -1,11 +1,12 @@
+manifest.json
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.2",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+  "id": "obsidian-mpe",
+  "name": "Obsidian MPE",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "微信公众号Markdown编辑器插件",
+  "author": "键盘造车手",
+  "authorUrl": "https://github.com/verysolecd/obsidian-mpe",
+  "fundingUrl": "https://github.com/verysolecd/obsidian-mpe",
+  "isDesktopOnly": true
 }
